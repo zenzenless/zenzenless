@@ -60,8 +60,7 @@ An **AI novel agent**, with both **Rust** and **Go** implementations.
 |---|---|---|---|
 | Go | Cosmos SDK | Kratos | AI agents |
 | Rust | Rollapp | Shell | Workflow orchestration |
-| Python | WASM contracts | Makefile | Content generation |
-| TypeScript | Chain indexing | CI/CD | Automation systems |
+
 
 </div>
 
